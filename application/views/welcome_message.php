@@ -71,6 +71,7 @@
 
 	<div id="body">
 		<p>CLARO OSCAR SI SE PUEDE</p>
+		<p>Pensando p varon!!!, ahora tu mismo eres doc!!! cualquier cosa avisame :D</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
 		<code>application/views/welcome_message.php</code>
