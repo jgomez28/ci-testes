@@ -70,8 +70,8 @@
 	<h1>Esto es mi Twiter John</h1>
 
 	<div id="body">
-		<p> WEBOB</p>
-		<p>Pensando p varon!!!, ahora tu mismo eres doc!!! cualquier cosa avisame :D</p>
+		<p> WEB</p>
+		<p> A TRABAJAR</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
 		<code>application/views/welcome_message.php</code>
