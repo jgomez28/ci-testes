@@ -67,10 +67,10 @@
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter! Tu PUEDES JOHN!!</h1>
+	<h1>Esto es mi Twiter John</h1>
 
 	<div id="body">
-		<p>CLARO OSCAR SI SE PUEDE</p>
+		<p> WEBOB</p>
 		<p>Pensando p varon!!!, ahora tu mismo eres doc!!! cualquier cosa avisame :D</p>
 
 		<p>If you would like to edit this page you'll find it located at:</p>
