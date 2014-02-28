@@ -1,6 +1,6 @@
 <?php
 
-class blog extends CI_Controller {
+class Blog extends CI_Controller {
 
 	public function principal(){
 			$this->load->view('principal');
