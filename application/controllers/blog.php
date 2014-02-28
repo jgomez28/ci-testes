@@ -2,7 +2,7 @@
 
 class Blog extends CI_Controller {
 
-	public function principal(){
+	public function index(){
 			$this->load->view('principal');
 	}
 	public function acercade(){
