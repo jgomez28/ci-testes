@@ -5,7 +5,7 @@
 </head>
     <h1> Pagina de Inicio</h1>
 <body>
-  <p>
+  <p> Gurdará ? :D, y uno nuevo?
 	Bienvenidos al Blog de john
     fdsfdfsdssssssssss
     fsfsdfdsfdfds
