@@ -5,7 +5,9 @@
 </head>
     <h1> Contacto </h1>
 <body>
-  <p>
-	contactenos </p>
+ <section id="parrafo">
+	contactenos 
+</section>
+
 </body>
 </html>

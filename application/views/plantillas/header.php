@@ -1,6 +1,8 @@
 <!DOCTYPE HTML>
-<htmll>
+<html>
 <head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
-<title><?php echo $title ?> </title>
+<link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>css/style.css">
+<title><?php echo $title; ?> </title>
 </head>
+</html>

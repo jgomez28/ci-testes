@@ -2,14 +2,14 @@
 <html>
     <meta http-equiv="Content.type" Content="text/html; charset=utf-8">
     <title>Inicio</title>
-</head>
-    <h1> Pagina de Inicio</h1>
+
+<header> Pagina de Inicio </header>
+
 <body>
-  <p>
+  <section id="parrafo">
 	Bienvenidos al Blog de john
-    fdsfdfsdssssssssss
-    fsfsdfdsfdfds
-	fdsfdsfdsfsfs </p>
+     
+   </section>
 
 </body>		
 </html>

@@ -5,7 +5,9 @@
 
     <header> Pagina Acercade </header>
 <body>
-  <p>
-	informacion de  </p>
+	<section id="parrafo">
+	informacion de 
+	</section>
+
 </body>
 </html>

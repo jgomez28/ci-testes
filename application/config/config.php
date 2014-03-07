@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= '127.0.0.1/ci-testes/';
+$config['base_url']	= 'http://127.0.0.1/ci-testes/index.php/blog/';
 
 /*
 |--------------------------------------------------------------------------

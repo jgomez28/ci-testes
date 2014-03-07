@@ -5,7 +5,10 @@
 </head>
     <h1> Servicios </h1>
 <body>
-  <p>
-	Bienvenidos al Blog de john </p>
+  <section id="parrafo">
+	Bienvenidos al Blog de john 
+	
+	</section> 
+
 </body>
 </html>
